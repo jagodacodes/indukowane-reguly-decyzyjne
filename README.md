@@ -9,8 +9,7 @@ Projekt zaliczeniowy z przedmiotu **Indukowane Reguły Decyzyjne (IRD)** — bud
 i ocena modeli klasyfikacyjnych metodą reguł decyzyjnych, z pełną analizą danych,
 modelowaniem i ewaluacją jakości w środowisku **R / RStudio**.
 
-> **Autorzy (grupa GR8):** Olga Lewandowska, Krzysztof Owczarek, Julia Cymbalista,
-> Aleksandra Nowak, Mikołaj Rostkowski · Warszawa, styczeń 2024
+
 
 ---
 
