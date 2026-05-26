@@ -79,8 +79,3 @@ W repozytorium znajdują się dwa elementy:
 `#DataScience` `#MachineLearning` `#RStats` `#RLang` `#DecisionTrees`
 `#RandomForest` `#Classification` `#ROC` `#AUC` `#InformationValue`
 `#WeightOfEvidence` `#ggplot2` `#RStudio`
-
-## Licencja
-
-Treść projektu udostępniona na licencji [CC BY 4.0](LICENSE) — możesz dzielić się nią
-i adaptować pod warunkiem podania autorstwa.
